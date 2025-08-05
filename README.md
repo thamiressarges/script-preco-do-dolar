@@ -9,7 +9,8 @@ Este script realiza uma automação simples: abre o navegador, digita "preço do
 - Python
 
 🌐 **Veja no meu portfólio:**  
-👉 [thamiressarges.substack.com]([https://thamiressarges.substack.com](https://thamiressarges.substack.com/p/script-de-automacao-com-pyautogui?r=5yf0fo))
+👉 [thamiressarges.substack.com](https://substack.com/@thamiressarges/note/p-169902522)
+
 🎓 **Créditos:**  
 Este script foi desenvolvido com base nos aprendizados do **Curso Completo de Python do Básico ao Avançado + RPA + Projetos Reais com Banco de Dados**, disponível na Udemy.
 
