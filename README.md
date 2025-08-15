@@ -14,10 +14,4 @@ Este script realiza uma automação simples: abre o navegador, digita "preço do
 🎓 **Créditos:**  
 Este script foi desenvolvido com base nos aprendizados do **Curso Completo de Python do Básico ao Avançado + RPA + Projetos Reais com Banco de Dados**, disponível na Udemy.
 
----
-
-🎥 **Demonstração em Vídeo**  
-Confira abaixo a automação em ação:
-
-▶️ *(Insira aqui o vídeo ou o link para YouTube/Vimeo/etc.)*
 
